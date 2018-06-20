@@ -1,0 +1,14 @@
+.avt{
+    border: 3px solid rgb(139, 139, 139);
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.username{
+	margin-left: -100px;
+	float: right;
+	margin-top: -100px;
+	padding-right: 1190px;
+}
